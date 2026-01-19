@@ -1,0 +1,6 @@
+2025-09-06 22:43:37,648 - model - ERROR - [error]Failed to load checkpoint: PytorchStreamReader failed reading zip archive: failed finding central directory[/error]
+2025-09-06 22:44:04,377 - model - ERROR - [error]Failed to load checkpoint: PytorchStreamReader failed reading zip archive: failed finding central directory[/error]
+2025-09-06 22:45:09,455 - model - ERROR - [error]Failed to load checkpoint: [Errno 2] No such file or directory: '/checkpoints/99_model.pt'[/error]
+2025-09-06 22:45:33,490 - model - ERROR - [error]Failed to load checkpoint: PytorchStreamReader failed reading zip archive: failed finding central directory[/error]
+2025-09-06 22:59:55,882 - model - ERROR - [error]Failed to load checkpoint: Attempting to deserialize object on a CUDA device but torch.cuda.is_available() is False. If you are running on a CPU-only machine, please use torch.load with map_location=torch.device('cpu') to map your storages to the CPU.[/error]
+2025-09-06 23:17:26,211 - model - ERROR - [error]Failed to load checkpoint: Attempting to deserialize object on a CUDA device but torch.cuda.is_available() is False. If you are running on a CPU-only machine, please use torch.load with map_location=torch.device('cpu') to map your storages to the CPU.[/error]
